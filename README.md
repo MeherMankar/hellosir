@@ -18,18 +18,18 @@ This addon requires a Widevine device to work, either locally or remotely:
 
 ## Installation
 + Chrome
-    1. Download the ZIP file from the [releases section](https://github.com/DevLARLEY/WidevineProxy2/releases/latest)
+    1. Download the ZIP file from the [releases section](https://github.com/mehermankar/hellosir/releases/latest)
     2. Navigate to `chrome://extensions/`
     3. Enable `Developer mode`
     4. Drag-and-drop the downloaded file into the window
 + Firefox
     + Persistent installation
-        1. Download the XPI file from the [releases section](https://github.com/DevLARLEY/WidevineProxy2/releases/latest)
+        1. Download the XPI file from the [releases section](https://github.com/mehermankar/hellosir/releases/latest)
         2. Navigate to `about:addons`
         3. Click the settings icon and choose `Install Add-on From File...`
         4. Select the downloaded file
     + Temporary installation
-        1. Download the ZIP file from the [releases section](https://github.com/DevLARLEY/WidevineProxy2/releases/latest)
+        1. Download the ZIP file from the [releases section](https://github.com/mehermanakr/hellosir/releases/latest)
         2. Navigate to `about:debugging#/runtime/this-firefox`
         3. Click `Load Temporary Add-on...` and select the downloaded file
 
@@ -96,14 +96,5 @@ This requires the bundles to be present, so it must not be run on its own.
 Running `npm run publish` will execute both `bundle` and `package`.
 
 ## Disclaimer
-+ This program is intended solely for educational purposes.
-+ Do not use this program to decrypt or access any content for which you do not have the legal rights or explicit permission.
-+ Unauthorized decryption or distribution of copyrighted materials is a violation of applicable laws and intellectual property rights.
-+ This tool must not be used for any illegal activities, including but not limited to piracy, circumventing digital rights management (DRM), or unauthorized access to protected content.
-+ The developers, contributors, and maintainers of this program are not responsible for any misuse or illegal activities performed using this software.
-+ By using this program, you agree to comply with all applicable laws and regulations governing digital rights and copyright protections.
++ This program is purely made to intergrade in fetchx
 
-## Credits
-+ [node-widevine](https://github.com/Frooastside/node-widevine)
-+ [forge](https://github.com/digitalbazaar/forge)
-+ [protobuf.js](https://github.com/protobufjs/protobuf.js)
